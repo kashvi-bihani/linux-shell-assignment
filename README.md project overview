@@ -1,0 +1,25 @@
+# Linux Shell Assignment
+
+# Project Overview
+This project contains shell scripts created as part of a Linux command-line assignment.  
+The scripts demonstrate basic shell scripting concepts such as file operations, system monitoring, and text writing.
+
+
+# Shell Scripts
+
+## 1. backup.sh
+-Taking a backup snapshot of a directory with timestamp 
+
+## 2. monitor.sh
+- Displays running processes or system performance.
+- Uses commands like top, ps, or monitoring utilities.
+
+## 3. download.sh
+-Downloading a file from the internet
+-write it to a predefined directory
+
+# To Run the Scripts
+
+ Give execution permission:
+   ```bash
+   chmod +x scriptname.sh
